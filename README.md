@@ -19,5 +19,5 @@ For live support, please join https://discord.gg/mangos
 
 ## Authors
 
-- [@rushilol](https://www.github.com/injuriez)
+- [@rushilol](https://www.github.com/injuriez) (Owner of mangoguards)
 
