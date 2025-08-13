@@ -2,6 +2,7 @@
 ![Logo](https://i.postimg.cc/bw3ymbX3/New-Project-5.png)
 
 
+
 # Bloom V1
 Bloom is a powerful and flexible automation tool designed to help you automate repetitive tasks with ease. It records your keyboard and mouse inputs, then lets you play them back exactly as they happened — perfect for saving time and effort.
 
