@@ -3,7 +3,6 @@
 
 
 # Bloom V1
-
 Bloom is a powerful and flexible automation tool designed to help you automate repetitive tasks with ease. It records your keyboard and mouse inputs, then lets you play them back exactly as they happened — perfect for saving time and effort.
 
 What makes Bloom stand out is its custom Bloom Signal Editor, a unique feature that allows users to create and customize their own automation events, called mangos. Whether you're automating daily tasks, setting up complex workflows, or testing applications, Bloom gives you full control with a clean interface and advanced customization options.
