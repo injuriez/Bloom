@@ -15,7 +15,7 @@ Bloom is lightweight, easy to use, and built for power users, developers, gamers
 
 ## Support
 
-For live support, please join https://discord.gg/mangos
+For live support, please join [https://discord.gg/bloom](https://discord.gg/aMSFrxZ4Xz)
 
 ## Authors
 
